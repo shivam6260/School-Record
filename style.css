@@ -1,0 +1,31 @@
+table {
+  width: 40%;
+}
+caption {
+  text-align: left;
+}
+th {
+  text-align: left;
+  font-style: italic;
+  font-weight: 1500;
+}
+table,
+th,
+td {
+  border: solid 1.5px;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px;
+}
+caption {
+  font-size: 1.8vw;
+  font-weight: 2500;
+}
+.red {
+  color: red;
+}
+.green {
+  color: rgb(20, 206, 20);
+}
